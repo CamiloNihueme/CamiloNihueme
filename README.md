@@ -1,5 +1,5 @@
-## Hi there 👋<img width="1280" height="720" alt="Copia de Miniatura para Youtube Crear Contenido Moderno Amarillo Negro y Blanco" src="https://github.com/user-attachments/assets/085242a2-3552-4819-a6c5-d1977189e96a"
-<!--
+<img width="1280" height="600" alt="Copia de Miniatura para Youtube Crear Contenido Moderno Amarillo Negro y Blanco" src="https://github.com/user-attachments/assets/f2c98e2c-f424-4559-acb1-52529207cd68" />
+
 **CamiloNihueme/CamiloNihueme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
