@@ -1,4 +1,4 @@
-<img width="1280" height="400" alt="Copia de Miniatura para Youtube Crear Contenido Moderno Amarillo Negro y Blanco" src="https://github.com/user-attachments/assets/f2c98e2c-f424-4559-acb1-52529207cd68" />
+<img width="1280" height="200" alt="Copia de Miniatura para Youtube Crear Contenido Moderno Amarillo Negro y Blanco" src="https://github.com/user-attachments/assets/f2c98e2c-f424-4559-acb1-52529207cd68" />
 
 **CamiloNihueme/CamiloNihueme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
