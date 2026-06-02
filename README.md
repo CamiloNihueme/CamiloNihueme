@@ -14,11 +14,19 @@ Welcome! I operate at the intersection of **Nanotechnology**, **Machine Learning
 <h2 align="center">Connect with Me 📬</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/camilo-nihueme-ch%C3%A1vez-flores-b19791342/?skipRedirect=true" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Camilo%20Nihueme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.instagram.com/camilonihueme/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.youtube.com/@CamiloNihueme" target="blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a> 
   &nbsp;&nbsp;&nbsp; 
   <a href="mailto:camilochavez66666@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/camilochavez66666@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
 </p>
 
