@@ -4,11 +4,10 @@
 
 # High-Tech Engineering & Data Science 🚀
 
-Welcome! I am an **Engineering Student in Nanotechnology** specializing in the intersection of advanced materials, **Machine Learning**, and **Data Science**. My focus lies in developing intelligent, data-driven solutions for complex physical systems, industrial optimization, and remote sensing applications.
+Welcome! I operate at the intersection of **Nanotechnology**, **Machine Learning**, and **Data Science**. My focus is on breaking traditional boundaries—leveraging data-driven intelligence and advanced materials to optimize systems and build scalable technology.
 
-- **🔭 Currently building:** Scalable B2B technology projects and documenting the engineering process.
-- **🌱 Continuous evolution:** Deepening my expertise in predictive modeling, computer vision for remote sensing, and advanced thermodynamic systems.
-- **💬 Core domains:** Ask me about Machine Learning architecture, GIS & Drone data analytics, or Nanomaterials engineering.
+- **🔭 Current Execution:** Building scalable B2B technology projects and documenting the entire engineering process.
+> **The Goal:** To identify critical, real-world problems and solve them through continuous technological evolution, transforming raw physical and digital data into high-value solutions.
 
 ---
 
