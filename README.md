@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="Miniatura para Youtube Crear Contenido Moderno Amarillo Negro y Blanco" src="https://github.com/user-attachments/assets/f2c98e2c-f424-4559-acb1-52529207cd68" />
+  <img src="https://github.com/user-attachments/assets/a63fe1ee-6097-4aa8-b3e7-46fcca278c94" alt="High-Tech Engineering Banner" width="100%" />
 </p>
 
 # High-Tech Engineering & Data Science 🚀
@@ -17,7 +17,7 @@ Welcome! I operate at the intersection of **Nanotechnology**, **Machine Learning
     <img align="center" src="https://img.shields.io/badge/Camilo%20Nihueme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   &nbsp;&nbsp;&nbsp; 
-  <a href="mailto:camilochavez66666@gmail.com" target="blank">
+  <a href="mailto:camilochavez66666@gmail.com">
     <img align="center" src="https://img.shields.io/badge/camilochavez66666@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
 </p>
@@ -34,7 +34,7 @@ Welcome! I operate at the intersection of **Nanotechnology**, **Machine Learning
 
 <h2>Technical Stack 🛠️</h2>
 
-| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) |
 |---|---|---|---|---|
 | ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) | ![And More!](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge) |
 
@@ -42,7 +42,11 @@ Welcome! I operate at the intersection of **Nanotechnology**, **Machine Learning
 
 <h2>Featured Projects 🎨</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+<p align="left">
+  <a href="https://coaaingenieria.com" target="blank">
+    <img src="https://img.shields.io/badge/coaaingenieria.com-Check Out%20My%20Website%20📡-FFD700?style=for-the-badge&logo=antenna&logoColor=000000&labelColor=101010" alt="COAA Ingeniería" height="48"/>
+  </a>
+</p>
 
 ---
 
